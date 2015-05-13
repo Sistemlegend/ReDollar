@@ -1,5 +1,5 @@
 {
-  "name": "ReDollar",
+  "name": "re-dollar",
   "version": "1.0.0",
   "homepage": "https://github.com/Sistemlegend/ReDollar",
   "authors": [
@@ -12,11 +12,13 @@
   ],
   "keywords": [
     "ReDollar",
+    "re-dollar",
     "gesture"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "example/**/.*",
     "node_modules",
     "bower_components",
     "test",
