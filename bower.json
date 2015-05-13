@@ -1,7 +1,13 @@
 {
   "name": "re-dollar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Sistemlegend/ReDollar",
+  "main": [
+    "./src/Utils.js",
+    "./src/Polyline.js",
+    "./src/DollarOne.js",
+    "./src/DefaultOne.js"
+  ],
   "authors": [
     "finscn <fins@163.com>",
     "asegatto <segatto.alessandro@gmail.com>"
@@ -18,10 +24,11 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "example/**/.*",
+    "example",
     "node_modules",
     "bower_components",
     "test",
     "tests"
   ]
 }
+
