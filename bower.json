@@ -1,0 +1,25 @@
+{
+  "name": "ReDollar",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Sistemlegend/ReDollar",
+  "authors": [
+    "finscn <fins@163.com>",
+    "asegatto <segatto.alessandro@gmail.com>"
+  ],
+  "description": "A gesture recognizer in javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ReDollar",
+    "gesture"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
